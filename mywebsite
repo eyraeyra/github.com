@@ -1,0 +1,1227 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ira Togonon</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <!--============Aside===============-->
+  <header class="header">
+    <div class="logo">
+      <h3>Eyra</h3>
+    </div>
+      <nav class="nav">
+        <ul>
+          <li>
+            <a href="#home">Home</a>
+          </li>
+          <li>
+            <a href="#about">About</a>
+          </li>
+          <li>
+            <a href="#portfolio">Portfolio</a>
+          </li>
+          <li>
+            <a href="#services">Services</a>
+          </li>
+          <li>
+            <a href="#contact">Contact</a>
+          </li>
+        </ul>
+      </nav>
+      <!-- <div class="navi-up">
+        <a href="#home">
+          <img src="/images/arrowup-removebg-preview.png" alt="">
+        </a>
+      </div> -->
+    </header>
+  <!--============Aside===============-->
+  <aside>
+    <div class="nav-botttom-bar">
+          <a href="#home" class="navlink">
+            <i class="fa-solid fa-house-chimney icon"></i>
+            <span>Home</span>
+          </a>
+          
+          <a href="#about" class="navlink">
+            <i class="fa-solid fa-circle-info icon"></i>
+            <span>About</span>
+          </a>
+          
+          <a href="#portfolio" class="navlink">
+            <i class="fa-solid fa-briefcase icon"></i>
+            <span>Portfolio</span>
+          </a>
+          <a href="#services" class="navlink">
+            <i class="fa-solid fa-hand-holding icon"></i>
+            <span>Services</span>
+          </a>
+          <a href="#contact" class="navlink">
+            <i class="fa-solid fa-message icon"></i>
+            <span>Contact</span>
+          </a>
+    </div>
+  </aside>
+  <!--============Main===============-->
+  <main>
+    <!--============Section-1===============-->
+    <section id="home" class="section-1">
+      <div class="header-content">
+        <p>WELCOME TO MY WEBSITE!</p>
+        <h2>Hi, I'm Eyra</h2>
+        <p>
+          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Placeat velit tenetur, facere quas quibusdam ratione vel rem sunt ullam officia?
+        </p>
+        <a href="/navbottom/readmore.html" target="_blank">Read More</a>
+      </div>
+      </div>
+    </section>
+    <!--============Section-2================-->
+    <section id="about" class="section-2">
+      <div class="section2-content">
+        <h3>About</h3>
+        <p>
+          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsa totam tenetur, eaque molestiae officia veniam accusantium odit explicabo ratione recusandae?
+        </p>
+        <div class="sponsor">
+            <i class="fa-brands fa-facebook"></i>
+            <i class="fa-brands fa-instagram"></i>
+            <i class="fa-brands fa-twitter"></i>
+            <i class="fa-brands fa-linkedin"></i>
+            <i class="fa-brands fa-telegram"></i>
+          </div>
+          <div class="right">
+            <img src="/images/me,jpg.png" alt="">
+          </div>
+        </div>
+        <div class="task">
+          <h2>Completed Task</h2>
+          <div class="content-task">
+            <div class="cons">
+              <h3>Web Development</h3>
+              <span>03/03</span>
+            </div>
+            <div class="cons">
+              <h3>Web Design</h3>
+              <span>02/02</span>
+            </div>
+            <div class="cons">
+              <h3>Custom Edit</h3>
+              <span>01/01</span>
+            </div>
+        </div>
+    </section>
+    <!--============Section-3================-->
+    <section id="portfolio" class="section-3">
+      <div class="port-cons">
+        <div class="about-me">
+          <h2>Ira Togonon</h2>
+          <h5>Frontend Developer / Web Designer</h5>
+          <p>
+            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quae, quibusdam. Iste amet aperiam voluptas magni.
+          </p>
+        </div>
+        <h1>Skills</h1>
+        <div class="port">
+          <div class="ports" id="show">
+            <h2>HTML</h2>
+            <i class="fa-solid fa-angle-down" id="show"></i>
+          </div>
+          <div id="skills">
+            <h6>
+              <span>92%</span>
+            </h6>
+          </div>
+          <div class="ports" id="show-2">
+            <h2>CSS</h2>
+            <i class="fa-solid fa-angle-down" id="show-2"></i>
+          </div>
+          <div id="skill-2">
+            <h6>
+              <span>85%</span>
+            </h6>
+          </div>
+          <div class="ports" id="show-3">
+            <h2>JAVASCRIPT</h2>
+            <i class="fa-solid fa-angle-down" id="show-3"></i>
+          </div>
+          <div id="skill-3">
+            <h6>
+              <span>50%</span>
+            </h6>
+          </div>
+        </div>
+        <div class="satisfactory">
+          <div class="constory">
+            <div class="meets">
+              <h2>00
+                <i class="fa-thin fa-plus"></i>
+              </h2>
+              <span>Partners</span>
+            </div>
+            <div class="meets">
+              <h2>00
+                <i class="fa-thin fa-plus"></i>
+              </h2>
+              <span>Project Done</span>
+            </div>
+            <div class="meets">
+              <h2>00
+                <i class="fa-thin fa-plus"></i>
+              </h2>
+              <span>Happy Clients</span>
+            </div>
+            <div class="meets">
+              <h2>00
+                <i class="fa-thin fa-plus"></i>
+              </h2>
+              <span>Meets</span>
+            </div>
+        </div>
+      </div>
+      <div class="another">
+        <h1>Find Me On</h1>
+        <i class="fa-brands fa-facebook"></i>
+        <i class="fa-brands fa-instagram"></i>
+        <i class="fa-brands fa-twitter"></i>
+        <i class="fa-brands fa-linkedin"></i>
+        <i class="fa-brands fa-telegram"></i>
+      </div>
+      <div class="personal">
+        <h2>Personal Contact</h2>
+        <div class="personal-contact">
+                  <ul>
+                    <li>
+                      <i class="fa-solid fa-phone"></i>
+                      <span>0123456789</span>
+                    </li>
+                    <li>
+                      <i class="fa-solid fa-location-dot"></i>
+                      <span>Philippines, GMA Cavite</span>
+                    </li>
+                    <li>
+                      <i class="fa-solid fa-envelope"></i>
+                      <span>IraTogonon@ymail.com</span>
+                    </li>
+                  </ul>
+        </div>
+      </div>
+    </section>
+    <!--============Section-4================-->
+    <section id="services" class="section-4">
+      <div class="containers">
+        <div class="cards">
+          <div class="boxs">
+            <div class="contents">
+              <h2>PACKAGE 01</h2>
+              <h3>Web Development</h3>
+              <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates aut dolores odit minima officia aperiam,
+                nobis consectetur enim accusantium et.
+              </p>
+              <a href="#">Read More</a>
+      
+            </div>
+          </div>
+        </div>
+        <div class="containers">
+          <div class="cards">
+            <div class="boxs">
+              <div class="contents">
+                <h2>PACKAGE 02</h2>
+                <h3>Web Design</h3>
+                <p>
+                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates aut dolores odit minima officia aperiam,
+                  nobis consectetur enim accusantium et.
+                </p>
+                <a href="#">Read More</a>
+              </div>
+            </div>
+          </div>
+          <div class="containers">
+            <div class="cards">
+              <div class="boxs">
+                <div class="contents">
+                  <h2>PACKAGE 03</h2>
+                  <h3>Custom Edit</h3>
+                  <p>
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates aut dolores odit minima officia
+                    aperiam, nobis consectetur enim accusantium et.
+                  </p>
+                  <a href="#">Read More</a>
+      
+                </div>
+              </div>
+            </div>
+          </div>
+
+    </section>
+    <!--============Section-5================-->
+    <section id="contact" class="section-5">
+      <div class="forms">
+              <div class="container">
+                <form action="action_page.php">
+              
+                  <label for="fname">First Name</label>
+                  <input type="text" id="fname" name="firstname" placeholder="Your name.." required>
+              
+                  <label for="lname">Last Name</label>
+                  <input type="text" id="lname" name="lastname" placeholder="Your last name.." required>
+
+                  <label for="user-number">Contact Number</label>
+                  <input type="text" id="user-number" name="number" placeholder="Your number.." required>
+
+                  <label for="user-email">Email</label>
+                  <input type="text" id="user-email" name="email" placeholder="Your Email.." required>
+              
+                  <label for="country">Country</label>
+                  <select id="country" name="country">
+                    <option value="australia">Philippines</option>
+                    <option value="canada">Canada</option>
+                    <option value="usa">USA</option>
+                    <option value="usa">Other Country</option>
+                  </select required>
+              
+                  <label for="subject">Message</label>
+                  <textarea id="subject" name="subject" placeholder="Your Message.." style="height:200px"></textarea required>
+              
+                  <input type="submit" value="Submit" id="left" required>
+              
+                </form>
+              </div>
+      </div>
+      <div class="fare">
+        <h2>THANKS FOR VISITING MY WEBSITE!</h2>
+        <p>
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda in repellendus voluptas suscipit sequi perspiciatis hic blanditiis odio nobis voluptatem aut, iste repudiandae! Ducimus doloremque incidunt dolor molestias. Necessitatibus exercitationem pariatur in hic, tenetur ea!
+        </p>
+              <i class="fa-brands fa-facebook"></i>
+              <i class="fa-brands fa-instagram"></i>
+              <i class="fa-brands fa-twitter"></i>
+              <i class="fa-brands fa-linkedin"></i>
+              <i class="fa-brands fa-telegram"></i>
+              <div class="farewell">
+                <div class="slider">
+                  <div class="slide">
+                    <input type="radio" name="radio-btn" id="radio1">
+                    <input type="radio" name="radio-btn" id="radio2">
+                    <input type="radio" name="radio-btn" id="radio3">
+                    <input type="radio" name="radio-btn" id="radio4">
+                
+                    <div class="st first">
+                      <div class="content">
+                        <img src="/images/logo-removebg-preview.png" alt="">
+                        <h4>CODE HARD WORK HARD!</h4>
+                      </div>
+                    </div>
+                    <div class="st">
+                      <div class="html">
+                        <img src="/images/hrml-removebg-preview.png" alt="">
+                      </div>
+                    </div>
+                    <div class="st">
+                      <div class="css">
+                        <img src="/images/css-removebg-preview.png" alt="">
+                      </div>
+                    </div>
+                    <div class="st">
+                      <div class="js">
+                        <img src="/images/js-removebg-preview.png" alt="">
+                      </div>
+                    </div>
+                  </div>
+                </div>
+        
+              </div>
+      </div>
+    </section>
+  </main>
+  <footer>
+    <div class="footer-content">
+      <h4>THANK YOU FOR THE SOURCE & UDEMY ACADEMY</h4>
+      <h3>THANKS FOR THE SUPPORTS</h3>
+      <p>
+        CopyRight &copy; 2022 July <a href="#">Ira Togonon</a>
+      </p>
+            <i class="fa-brands fa-facebook"></i>
+            <i class="fa-brands fa-instagram"></i>
+            <i class="fa-brands fa-twitter"></i>
+            <i class="fa-brands fa-linkedin"></i>
+            <i class="fa-brands fa-telegram"></i>
+    </div>
+  </footer>
+
+
+
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"
+    integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ=="
+    crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script>
+      var skills = $('#skills');
+      var skill2 = $('#skill-2');
+      var skill3 = $('#skill-3');
+      var body = $ ('#body');
+      $(document).ready(function (){
+        $('#show').click(function(){
+          skills.fadeToggle();
+        })
+
+        $('#show-2').click(function(){
+          skill2.fadeToggle();
+        })
+        $('#show-2').click(function(){
+          skills.hide();
+        })
+        $('#show-3').click(function(){
+          skill3.fadeToggle();
+        })
+        $('#show-3').click(function(){
+          skill2.hide();
+        })
+          var counter = 1;
+        setInterval(function () {
+          document.getElementById('radio' + counter).checked = true;
+          counter++;
+          if (counter > 4) {
+            counter = 1;
+          }
+        },3000);
+      })
+        window.addEventListener('scroll', function () {
+          let header = document.querySelector('header');
+          header.classList.toggle('scrolling-active', window.scrollY > 0);
+      })
+    </script>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Read More</title>
+</head>
+<style>
+  body{
+    text-align: center;
+    width: 100%;
+    max-width: 70rem;
+    height: 100vh;
+    background-color: wheat;
+    margin: 0 auto;
+  }
+</style>
+<body>
+  <h1>
+    THANKS FOR VISITING MY WEBSITE LOVE YOU!!
+  </h1>
+  <p>
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam, sint obcaecati. Explicabo sed voluptate a veniam tempore, vitae laborum doloribus dolore quaerat dolorum voluptatem excepturi voluptas odio magni dolores itaque quod est sunt. Amet minus assumenda incidunt optio temporibus fugiat fuga consequuntur dolore laboriosam laborum tempora alias molestiae, modi natus repellendus voluptate totam magni quisquam consectetur error obcaecati deserunt asperiores. Voluptatum possimus quisquam facere temporibus ducimus aspernatur nisi, unde saepe esse labore corrupti et quia enim iure! Soluta eum pariatur recusandae, temporibus nobis totam consequuntur doloremque ducimus nam dolore, placeat eos deserunt deleniti, illo iste vero odit dolor cumque mollitia!
+  </p>
+</body>
+</html>
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400&family=Poppins:wght@300&display=swap');
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+html{
+  scroll-behavior: smooth;
+}
+ul{
+  list-style: none;
+}
+a{
+  text-decoration: none;
+}
+body{
+  font-family: 'Open Sans', sans-serif;
+  /* font-family: 'Poppins', sans-serif; */
+}
+/*===============Header===============*/
+.header{
+  display: flex;
+  align-items: center;
+  position: absolute;
+  width: 100%;
+  padding: 0.5rem 1rem;
+  justify-content: space-between;
+}
+.header .logo h3{
+  font-size: 2rem;
+  font-family: 'Poppins', sans-serif;
+  font-weight: bold;
+  color: burlywood;
+}
+.header .nav ul{
+  display: flex;
+  gap: 1.5rem;
+  display: none;
+  color: #fff;
+}
+
+.nav ul li a{
+  position: relative;
+}
+.nav ul li a:after{
+  content: "";
+  position: absolute;
+  background-color: burlywood;
+  width: 0;
+  height: 2px;
+  bottom: -2px;
+  left: 0;
+}
+.nav ul li a:hover:after{
+  width: 100%;
+  transition: 0.5s;
+}
+
+
+/*===============Aside===============*/
+.nav-botttom-bar{
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+	height: 55px;
+	box-shadow: 0 0 5px rgba(0,0,0,0.2);
+	border-radius: 10px 10px 0 0 ;
+	background-color: #fff;
+	display: flex;
+	overflow-x: auto;
+  z-index: 9999;
+
+}
+
+.navlink{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	flex-grow: 1;
+	min-width: 50px;
+	overflow: hidden;
+	white-space: nowrap;
+	font-family: sans-serif;
+	font-size: 15px;
+	color: black;
+	-webkit-tap-highlight-color: transparent;
+	transition: background-color 0.1s ease-in-out;
+}
+.navlink:hover{
+	background-color: #eeeeee;
+}
+.nav-botttom-bar span{
+	font-family: sans-serif;
+	font-size: 0.6rem;
+	padding-top: 0.1rem;
+}
+
+@media (min-width: 500px){
+  .nav-botttom-bar span{
+    font-family: sans-serif;
+    font-size: 0.9rem;
+    padding-top: 0.2rem;
+  }
+  .icon{
+    font-size: 1.2rem;
+  }
+}
+@media (min-width: 780px){
+  .nav-botttom-bar{
+    display: none;
+  }
+  .nav a{
+    color: #fff;
+  }
+  .scrolling-active{
+    background-color: rgb(255, 255, 255);
+    box-shadow:  0 3px 1rem rgba(0,0,0,1);
+  }
+  .scrolling-active .nav a{
+    color: rgb(71, 70, 70);
+    font-weight: 500;
+
+  }
+  .scrolling-active .com{
+    height: 2rem;
+  }
+  .header{
+    position: fixed;
+    z-index: 9999;
+    height: 2.9rem;
+    transition: 0.4s;
+  }
+  .scrolling-active .logo h3{
+    font-size: 1.5rem;
+    color: rgb(32, 29, 29);
+  }
+  .header .nav ul{
+    display: flex;
+    border-radius: 20px;
+    padding: 10px;
+  }
+}
+/*=============== END OF Aside===============*/
+/*=============== Section-1===============*/
+.section-1{
+  background: linear-gradient(45deg,rgba(215, 142, 6, 0.307), rgba(222, 17, 85, 0.515)), url(images/images/mountain.jpg);
+  background-position:center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 75vh;
+  font-family:'Poppins', sans-serif;
+}
+.header-content{
+  position: relative;
+  top: 7.8rem;
+  background-color: rgba(0, 0, 0, 0.198);
+  color: #fff;
+  width: 80%;
+  margin: 0 auto;
+  text-align: center;
+  box-shadow: 0 2px 8px black;
+  border-radius: 8px;
+  padding: 0.4rem 0.5rem;
+}
+.header-content p{
+  font-size: 0.7rem;
+}
+.header-content h2{
+  font-size: 1.3rem;
+  color: burlywood;
+}
+.header-content a{
+  font-size: 0.7rem;
+  position: absolute;
+  margin-top: 0.8rem;
+  left: 50%;
+  transform: translateX(-50%);
+  border: 1px solid burlywood;
+  padding: 0.2rem 0.5rem;
+  color: #fff;
+  border-radius: 4px;
+}
+.header-content a:hover{
+  background-color: burlywood;
+  transition: 0.6s ease-in-out;
+  color: rgb(53, 53, 53);
+}
+@media (min-width: 780px){
+  .section-1{
+    height: 90vh;
+  }
+  .header-content{
+    width: 40rem;
+  }
+  .header-content p{
+    font-size: 0.9rem;
+  }
+  .header-content h2{
+    font-size: 1.8rem;
+    letter-spacing: 2px;
+  }
+  .header-content a{
+    font-size: 0.9rem;
+  }
+}
+/*=============== END OF Section -1===============*/
+/*=============== Section-2===============*/
+.section-2{
+  width: 100%;
+  height: 100vh;
+  padding-top: 1rem;
+}
+.section2-content h3{
+  color: rgb(53, 53, 53);
+  font-size: 1.3rem;
+  font-weight: 500;
+  text-align: center;
+}
+.section2-content p{
+  font-size: 0.8rem;
+  width:90%;
+  margin: 0 auto;
+  color: rgb(53, 53, 53);
+  text-align: center;
+  align-items: center;
+}
+.sponsor{
+  display: flex;
+  justify-content: center;
+  gap: 0.7rem;
+  padding-top: 0.5rem;
+}
+
+.right{
+  text-align: center;
+  margin-right: 2.3rem;
+  position: relative;
+  top: -1rem;
+
+}
+.right img{
+  width: 100%;
+  max-width: 8rem;
+}
+.navi-up{
+  display: flex;
+  justify-content: end;
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  top: 28rem;
+  z-index: 1000;
+  display: none;
+}
+.navi-up img{
+  width: 100%;
+  max-width: 6rem;
+  margin-left:15.5rem ;
+}
+@media (min-width: 320px){
+  .scrolling-active .navi-up{
+    display: block;
+  }
+  .navi-up{
+    top: 30rem;
+    left: 4rem;
+  }
+}
+@media (min-width: 400px){
+  .navi-up img{
+    display: none;
+  }
+}
+@media (min-width: 1300px){
+  .scrolling-active .navi-up img{
+    display: block;
+  }
+  .navi-up{
+    display: block;
+    top: 32rem;
+    left:64rem;
+  }
+}
+.task h2{
+  font-size: 1rem;
+  color: rgb(53, 53, 53);
+  text-align: center;
+  font-weight: 500;
+
+}
+.content-task{
+  display: flex;
+  flex-direction: row;
+  gap: 1.5rem;
+  text-align: center;
+  justify-content: center;
+
+}
+.cons h3{
+  font-size: 0.8rem;
+  font-weight: 500;
+  color: rgb(32, 29, 29);
+}
+.cons span{
+  color: rgb(53, 53, 53);
+}
+
+@media (min-width: 780px){
+  .section2-content h3{
+    font-size: 2rem;
+  }
+  .section2-content p{
+    width: 40rem;
+    font-size: 1rem;
+  }
+  .right img{
+    max-width: 12rem;
+    position: relative;
+    left: -1rem;
+  }
+  .task h2{
+    font-size: 1.3rem;
+    padding-bottom: 0.4rem;
+  }
+  .cons{
+    background-color: rgb(188, 188, 188);
+    width: 100%;
+    max-width: 10rem;
+    height: 4.5rem;
+    border-radius: 4px;
+    clip-path: inset(0 0 44% 0);
+  }
+  .cons:hover{
+    clip-path: inset(0 0 0 0);
+    transition: 0.6s ease-in-out;
+  }
+  .cons h3{
+    font-size: 1rem;
+    padding-top: 0.7rem;
+  }
+  .cons span{
+    font-size: 1.5rem;
+  }
+}
+/*===============Section-3===============*/
+.section-3{
+  width: 100%;
+  height: 100vh;
+}
+
+.about-me h2{
+  /* font-weight: 500; */
+  color: rgb(53, 53, 53);
+  padding-top: 0.7rem;
+  font-family: 'Poppins', sans-serif;
+}
+.about-me h5{
+  padding-bottom: 0.3rem;
+}
+.about-me p{
+  font-size: 0.8rem;
+}
+.port-cons h1{
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 500;
+  padding-top: 0.6rem;
+  font-size: 1.2rem;
+  position: relative;
+  top: 1.4rem;
+
+}
+.port{
+  padding: 1rem 1rem;
+}
+.ports i{
+  cursor: pointer;
+}
+.ports{
+  display: flex;
+  align-items: center;
+  background-color: burlywood;
+  justify-content: space-between;
+  padding: 0 1rem;
+  border-radius: 5px;
+  margin: 0.3rem 0;
+  cursor: pointer;
+}
+.ports h2{
+  font-size: 0.6rem;
+  font-weight: 500;
+  height: 2rem;
+  line-height: 2rem;
+}
+.port-cons h6{
+  box-shadow: 0 0 3px black;
+  border-radius: 2px;
+  height: 17px;
+  font-size: 0.3rem;
+  width: auto;
+  max-width:16rem;
+  margin: 0 auto;
+  background-color: #fff;
+}
+#skill-3,
+#skill-2,
+#skills{
+  display: none;
+}
+
+
+#skill-3 span{
+  font-size: 0.7rem;
+  display: flex;
+  justify-content: center;
+  background-color:rgb(188, 188, 188);
+  width: 100%;
+  max-width: 11rem;
+  height: 17px;
+  border-radius: 2px;
+}
+#skill-2 span{
+  font-size: 0.7rem;
+  display: flex;
+  justify-content: center;
+  background-color:rgb(188, 188, 188);
+  width: 100%;
+  max-width: 13rem;
+  height: 17px;
+  border-radius: 2px;
+}
+#skills span{
+  font-size: 0.7rem;
+  display: flex;
+  justify-content: center;
+  background-color:rgb(188, 188, 188);
+  width: 100%;
+  max-width: 15rem;
+  height: 17px;
+  border-radius: 2px;
+}
+.constory{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  background-color: #fff;
+  box-shadow: 0 0 3px black;
+  width: 100%;
+  max-width:22rem;
+  margin: 0 auto;
+  padding: 0.4rem;
+  border-radius: 4px;
+}
+.meets h2{
+  font-size: 1rem;
+  font-weight: 500;
+}
+.meets i{
+  position: relative;
+  right: 0.3rem;
+}
+.meets span{
+  font-size: 0.8rem;
+  display: flex;
+  align-items: center;
+}
+.another h1{
+  padding-bottom: 1.5rem;
+}
+.another i{
+  display: inline-block;
+  margin-left: 1rem;
+}
+.personal h2{
+  padding-top:3rem;
+  font-size: 1.4rem;
+}
+.personal-contact ul{
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  padding-top: 0.7rem;
+}
+@media (min-width: 500px){
+  .ports{
+    width: 30rem;
+    margin: 0.5rem auto;
+  }
+  .port-cons h6{
+    max-width: 25rem;
+  }
+  #skill-3 span{
+    max-width: 13rem;
+
+  }
+  #skill-2 span{
+    max-width: 19rem;
+
+  }
+  #skills span{
+    max-width: 23rem;
+
+  }
+  .port-cons h1{
+    font-size: 1.5rem;
+  }
+  .ports h2{
+    font-size: 0.9rem;
+  }
+  .section-3{
+    display: grid;
+    grid-template-columns: 1fr;
+  }
+
+}
+
+/*=============== END SECTION 3===============*/
+/*=============== SECTION-4===============*/
+.section-4{
+  width: 100%;
+  height: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+.containers{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  max-width: 1200px;
+  flex-wrap: wrap;
+  padding: 40px 0;
+}
+@media (min-width: 780px){
+  .containers{
+    flex-direction: row;
+  }
+}
+.containers .cards{
+  position: relative;
+  width: 300px;
+  height: 440px;
+  box-shadow: inset 5px 5px 5px rgba(0,0,0,0.05),
+              inset -5px -5px 5px rgba(255,255,255,0.05),
+              5px 5px 5px rgba(0,0,0,0.05),
+              -5px -5px 5px rgba(255,255,255,0.05);
+  border-radius: 15px;
+  margin: 30px;
+}
+.containers .cards .boxs{
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  right: 20px;
+  bottom: 20px;
+  background: #dcc7e7;
+  box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+  border-radius:15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: 0.5s;
+}
+.containers .cards:hover .boxs{
+  transform: translateY(-50px);
+  box-shadow: 0 10px 40px rgba(0,0,0,0.4);
+  background: linear-gradient(45deg,#b95ce4, #4f29cd);
+}
+.containers .cards .boxs .contents{
+  padding: 20px;
+  text-align: center;
+}
+.containers .cards .boxs .contents h2{
+  position: absolute; 
+  top: 15px;
+  right: 5px;
+  font-size: 2rem;
+  color: rgba(0, 0, 0, 0.038);
+  transition: 0.5s;
+  pointer-events: none;
+}
+.containers .cards:hover .boxs .contents h2{
+  color: rgba(0,0,0,0.05);
+}
+.containers .cards .boxs .contents h3{
+  font-size: 1.5rem;
+  color: rgb(73, 69, 69);
+  z-index: 1;
+  transition: 0.5s;
+  color: #03a9f4;
+}
+.containers .cards .boxs .contents p{
+  font-size: 1rem;
+  font-weight: 300;
+  color: rgb(53, 46, 46);
+  z-index: 1;
+  transition: 0.5s;
+  line-height: 22px;
+}
+
+.containers .cards:hover .boxs .contents h3{
+  color:#ff568f;
+}
+.containers .cards:hover .boxs .contents p
+{
+  color: whitesmoke;
+
+}
+.containers .cards .boxs .contents a{
+  position: relative;
+  display: inline-block;
+  padding: 8px 20px;
+  background: #03a9f4;
+  margin-top: 15px;
+  border-radius: 20px;
+  color: #fff;
+  font-weight: 400;
+  box-shadow: 0 10px 20px rgba(0,0,0,0.2);
+  font-size: 0.9rem;
+
+}
+.containers .cards:hover .boxs .contents a{
+  background-color: #ff568f;
+}
+
+/*=============== END OF SECTION 4===============*/
+
+/*=============== Section -5===============*/
+.section-5{
+  width: 100%;
+  height: auto;
+}
+input[type=text], select, textarea {
+  width: 100%; 
+  padding: 12px; 
+  border: 1px solid #ccc; 
+  border-radius: 4px; 
+  box-sizing: border-box; 
+  margin-top: 6px; 
+  margin-bottom: 16px;
+  resize: none; 
+  font-family: 'Open Sans', sans-serif;
+}
+.container label{
+  float: left;
+}
+
+input[type=submit] {
+  background-color:#03a9f4;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  float: left;
+}
+.container {
+  border-radius: 5px;
+  padding: 20px;
+  font-family: 'Open Sans', sans-serif;
+}
+.farewell{
+  width: 100%;
+  height: auto;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.slider{
+  width: 400px;
+  height: auto;
+  overflow: hidden;
+  position: relative;
+  top: -5rem;
+}
+.slide{
+  width: 500%;
+  height: 500px;
+  display: flex;
+}
+.slide input{
+  display: none;
+}
+.st{
+  width: 20%;
+  transition: 2s;
+}
+.nav-m{
+  position: absolute;
+  width: 800px;
+  margin-top: -40px;
+  justify-content: center;
+  display: flex;
+}
+#radio1:checked ~.first{
+  margin-left: 0;
+}
+#radio2:checked ~.first{
+  margin-left: -20%;
+}
+#radio3:checked ~.first{
+  margin-left: -40%;
+}
+#radio4:checked ~.first{
+  margin-left: -60%;
+}
+
+
+
+.fare{
+  text-align: center;
+  width: 100%;
+  max-width: auto;
+  margin: 0 auto;
+  padding: 3rem 1rem ;
+}
+.fare h2{
+  font-size: 1rem;
+  font-weight: bold;
+}
+.fare p{
+  font-size: 0.9rem;
+  padding-bottom: 0.6rem;
+}
+.content{
+  text-align: center;
+}
+.content img{
+  width: 100%;
+  max-width: 17rem;
+  height: auto;
+}
+html, css, js{
+  text-align: center;
+}
+.html img{
+  width: 100%;
+  max-width: 8rem;
+  margin-top: 7rem;
+}
+.css img,
+.js img{
+  width: 100%;
+  max-width: 10rem;
+  margin-top: 7rem;
+}
+@media (min-width: 780px){
+  .section-5{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    height: auto;
+  }
+  .fare{
+    padding-top: 2rem;
+  }
+}
+/*=============== END OF SECTION 5===============*/
+footer{
+  text-align: center;
+  background-color: rgb(17, 16, 16);
+  color: #fff;
+  width: 100%;
+  height: auto;
+  padding-bottom:70px;
+  padding-top: 8px;
+}
+.footer-content a{
+  color: #ff568f;
+}
+.footer-content h4{
+  font-size: 0.7rem;
+}
+.footer-content h3{
+  font-size: 0.7rem;
+  font-weight: 500;
+}
+.footer-content p{
+  font-size: 0.9rem;
+}
+@media (min-width: 780px){
+  footer{
+    padding: 5px 0;
+    line-height: 22px;
+  }
+  .footer-content h4{
+    font-size: 1rem;
+
+  }
+  .footer-content h3{
+    font-size: 0.9rem;
+  }
+}
